@@ -54,10 +54,7 @@ namespace Resourse_control
 
         }
 
-        private void приветToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            label1.Text = "Привет Андрей!";
-        }
+        
 
         
     }
