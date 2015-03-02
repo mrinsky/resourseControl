@@ -1,0 +1,15 @@
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\Resourse control.exe.config
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\Resourse control.exe
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\Resourse control.pdb
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\obj\Debug\Resourse control.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\obj\Debug\Resourse_control.Form1.resources
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\obj\Debug\Resourse_control.Properties.Resources.resources
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\obj\Debug\Resourse control.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\obj\Debug\Resourse control.exe
+c:\users\михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\obj\Debug\Resourse control.pdb
+C:\Users\Михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\System.Data.SQLite.xml
+C:\Users\Михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Михаил\documents\visual studio 2013\Projects\Resourse control\Resourse control\bin\Debug\System.Data.SQLite.Linq.xml
